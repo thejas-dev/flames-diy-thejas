@@ -7,7 +7,7 @@ function Contact(){
               <center>
                 <h1 className='ui header' style={{padding:'10px'}} >Contact Us</h1>
               </center>
-                <p style={{fontSize:'20px',color:'#d66340'}}> <b>Simple Single Page Web App , Nothing To Tell Goddu Bye...</b></p>
+                <p style={{fontSize:'20px',color:'white',textShadow:'2px 2px 4px #000000'}}> <b>Simple Single Page Web App , Nothing To Tell Goddu Bye...</b></p>
                 
             </div></div>
     )
