@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Gentium+Book+Plus:ital@1&display=swap');
 .box{
-    background:url("./images/note.jpeg") fixed no-repeat center center ;
+    background:url("./images/note.jpeg") no-repeat center center ;
     background-size: cover;
     height:100%;
     width:100%;
