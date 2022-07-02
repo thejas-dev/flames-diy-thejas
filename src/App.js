@@ -16,7 +16,7 @@ class App extends React.Component{
 
    
   flamescalci(name1,name2){
-    
+    // eslint-disable-next-line
    this.state={
      nam1:name1,
      nam2:name2
