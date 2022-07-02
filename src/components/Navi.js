@@ -4,7 +4,7 @@ function Navi(){
     return(
         <nav className="box" style={{height:'100px', padding:'5px', borderRadius : '20px 20px 0px 0px'}} >
             <center>
-        <h2 className="ui header" style={{padding:'15px',fontSize:'40px' ,background: 'linear-gradient(to right,#fcc133,#fc33d0)',
+        <h2 className="ui header" style={{padding:'15px',fontSize:'35px' ,background: 'linear-gradient(to right,#fcc133,#fc33d0)',
     WebkitBackgroundClip:'text',
     backgroundClip: 'text',
     color: 'transparent'}}>Flames Game</h2></center>
