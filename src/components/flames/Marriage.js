@@ -1,5 +1,5 @@
 import React from 'react'
-import Marriages from './flameimages/marriage.jpeg'
+import Marriages from './flameimages/marriage.jpg'
 
 function Marriage(props){
 	const mystyle = {
